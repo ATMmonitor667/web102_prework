@@ -23,7 +23,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough](https://github.com/ATMmonitor667/web102_prework/blob/main/assets/VideoWalkThroughAgain.gif' width='' alt='Video Walkthrough' />
+<img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3h6anZ2dWF3bjJnNDQ4M28wbWNnaXdiZHk1NnI4bzJhN2l6YndiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RxUadfvEqlIbcpKAB9/giphy.gif' title='VideoWalkthough' width='' alt='Video Walkthrough' />
+![Alt Text](path-to-your-gif.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
