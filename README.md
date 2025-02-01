@@ -27,7 +27,7 @@ Here's a walkthrough of implemented features:
 ![Alt Text](path-to-your-gif.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with LiceCap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
